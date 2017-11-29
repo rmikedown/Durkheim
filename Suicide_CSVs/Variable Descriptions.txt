@@ -1,4 +1,4 @@
-<b>Variables in Durkheim's classic book Suicide</b>
+Variables in Durkheim's classic book Suicide
 
 Total.Suicides: The raw data collected on suicides
 
