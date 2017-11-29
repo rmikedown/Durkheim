@@ -1,0 +1,7 @@
+Country,GroupID,Departments.Included,AVGFHS,PHBAVGFHS,PHAAVGFHS,SRP1M,Collected.Period.FHS,Collected.Period.S
+France,1st Group,11,347,100,0,From 380 to 430,1886,1878-87
+France,2nd Group,6,360,84,16,From 240 to 300,1886,1878-87
+France,3rd Group,15,376,60,30,From 180 to 230,1886,1878-87
+France,4th Group,18,393,33,63,From 130 to 170,1886,1878-87
+France,5th Group,26,418,19,81,From 80 to 120,1886,1878-87
+France,6th Group,10,434,0,100,From 30 to 70,1886,1878-87

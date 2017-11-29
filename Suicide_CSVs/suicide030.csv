@@ -1,0 +1,29 @@
+Sex,Age Category,Marital Status,SP100K
+Male,16 to 25,Married,10.51
+Male,26 to 35,Married,10.58
+Male,36 to 45,Married,18.77
+Male,46 to 55,Married,24.08
+Male,56 to 65,Married,26.29
+Male,66 to 75,Married,20.76
+Male,Above 75,Married,9.48
+Male,16 to 25,Non-Married,5.69
+Male,26 to 35,Non-Married,25.73
+Male,36 to 45,Non-Married,66.95
+Male,46 to 55,Non-Married,90.72
+Male,56 to 65,Non-Married,150.08
+Male,66 to 75,Non-Married,229.27
+Male,Above 75,Non-Married,333.35
+Female,16 to 25,Married,2.63
+Female,26 to 35,Married,2.76
+Female,36 to 45,Married,4.15
+Female,46 to 55,Married,5.55
+Female,56 to 65,Married,7.09
+Female,66 to 75,Married,4.67
+Female,Above 75,Married,7.64
+Female,16 to 25,Non-Married,2.99
+Female,26 to 35,Non-Married,6.14
+Female,36 to 45,Non-Married,13.23
+Female,46 to 55,Non-Married,17.05
+Female,56 to 65,Non-Married,25.98
+Female,66 to 75,Non-Married,51.93
+Female,Above 75,Non-Married,34.69

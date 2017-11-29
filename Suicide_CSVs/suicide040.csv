@@ -1,0 +1,14 @@
+Country,Service.Time,Age.Category,Group,Base,SP100K
+France,Less than 1 Year,NA,Non-Commissioned Officers & Soldiers,NA,28
+France,1-3 Years,NA,Non-Commissioned Officers & Soldiers,NA,27
+France,3-5 Years,NA,Non-Commissioned Officers & Soldiers,NA,40
+France,5-7 Years,NA,Non-Commissioned Officers & Soldiers,NA,48
+France,7-10 Years,NA,Non-Commissioned Officers & Soldiers,NA,76
+England,NA,20 to 25 years,Soldiers,Home,20
+England,NA,25 to 30 years,Soldiers,Home,39
+England,NA,30 to 35 years,Soldiers,Home,51
+England,NA,35 to 40 years,Soldiers,Home,71
+England,NA,20 to 25 years,Soldiers,India,13
+England,NA,25 to 30 years,Soldiers,India,39
+England,NA,30 to 35 years,Soldiers,India,84
+England,NA,35 to 40 years,Soldiers,India,103

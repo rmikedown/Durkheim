@@ -1,0 +1,217 @@
+Country,Location,Sex,Marital Status,Age Category,SP1M
+France,Provinces,Male,Unmarried,15 to 20,100
+France,Provinces,Male,Unmarried,20 to 25,214
+France,Provinces,Male,Unmarried,25 to 30,365
+France,Provinces,Male,Unmarried,30 to 40,590
+France,Provinces,Male,Unmarried,40 to 50,976
+France,Provinces,Male,Unmarried,50 to 60,1445
+France,Provinces,Male,Unmarried,60 to 70,1790
+France,Provinces,Male,Unmarried,70 to 80,2000
+France,Provinces,Male,Unmarried,Above 80,1458
+France,Provinces,Male,Unmarried,15 to 20,100
+France,Provinces,Male,Unmarried,20 to 25,214
+France,Provinces,Male,Unmarried,25 to 30,365
+France,Provinces,Male,Unmarried,30 to 40,590
+France,Provinces,Male,Unmarried,40 to 50,976
+France,Provinces,Male,Unmarried,50 to 60,1445
+France,Provinces,Male,Unmarried,60 to 70,1790
+France,Provinces,Male,Unmarried,70 to 80,2000
+France,Provinces,Male,Unmarried,Above 80,1458
+France,Provinces,Male,Married,15 to 20,400
+France,Provinces,Male,Married,20 to 25,95
+France,Provinces,Male,Married,25 to 30,103
+France,Provinces,Male,Married,30 to 40,202
+France,Provinces,Male,Married,40 to 50,295
+France,Provinces,Male,Married,50 to 60,470
+France,Provinces,Male,Married,60 to 70,582
+France,Provinces,Male,Married,70 to 80,664
+France,Provinces,Male,Married,Above 80,762
+France,Provinces,Male,Married,15 to 20,400
+France,Provinces,Male,Married,20 to 25,95
+France,Provinces,Male,Married,25 to 30,103
+France,Provinces,Male,Married,30 to 40,202
+France,Provinces,Male,Married,40 to 50,295
+France,Provinces,Male,Married,50 to 60,470
+France,Provinces,Male,Married,60 to 70,582
+France,Provinces,Male,Married,70 to 80,664
+France,Provinces,Male,Married,Above 80,762
+France,Provinces,Male,Widowers,15 to 20,NA
+France,Provinces,Male,Widowers,20 to 25,153
+France,Provinces,Male,Widowers,25 to 30,373
+France,Provinces,Male,Widowers,30 to 40,511
+France,Provinces,Male,Widowers,40 to 50,633
+France,Provinces,Male,Widowers,50 to 60,852
+France,Provinces,Male,Widowers,60 to 70,1047
+France,Provinces,Male,Widowers,70 to 80,1252
+France,Provinces,Male,Widowers,Above 80,1129
+France,Provinces,Male,Widowers,15 to 20,NA
+France,Provinces,Male,Widowers,20 to 25,153
+France,Provinces,Male,Widowers,25 to 30,373
+France,Provinces,Male,Widowers,30 to 40,511
+France,Provinces,Male,Widowers,40 to 50,633
+France,Provinces,Male,Widowers,50 to 60,852
+France,Provinces,Male,Widowers,60 to 70,1047
+France,Provinces,Male,Widowers,70 to 80,1252
+France,Provinces,Male,Widowers,Above 80,1129
+France,Provinces,Female,Unmarried,15 to 20,67
+France,Provinces,Female,Unmarried,20 to 25,95
+France,Provinces,Female,Unmarried,25 to 30,122
+France,Provinces,Female,Unmarried,30 to 40,101
+France,Provinces,Female,Unmarried,40 to 50,147
+France,Provinces,Female,Unmarried,50 to 60,178
+France,Provinces,Female,Unmarried,60 to 70,163
+France,Provinces,Female,Unmarried,70 to 80,200
+France,Provinces,Female,Unmarried,Above 80,160
+France,Provinces,Female,Unmarried,15 to 20,67
+France,Provinces,Female,Unmarried,20 to 25,95
+France,Provinces,Female,Unmarried,25 to 30,122
+France,Provinces,Female,Unmarried,30 to 40,101
+France,Provinces,Female,Unmarried,40 to 50,147
+France,Provinces,Female,Unmarried,50 to 60,178
+France,Provinces,Female,Unmarried,60 to 70,163
+France,Provinces,Female,Unmarried,70 to 80,200
+France,Provinces,Female,Unmarried,Above 80,160
+France,Provinces,Female,Married,15 to 20,36
+France,Provinces,Female,Married,20 to 25,52
+France,Provinces,Female,Married,25 to 30,64
+France,Provinces,Female,Married,30 to 40,74
+France,Provinces,Female,Married,40 to 50,95
+France,Provinces,Female,Married,50 to 60,136
+France,Provinces,Female,Married,60 to 70,142
+France,Provinces,Female,Married,70 to 80,191
+France,Provinces,Female,Married,Above 80,108
+France,Provinces,Female,Married,15 to 20,36
+France,Provinces,Female,Married,20 to 25,52
+France,Provinces,Female,Married,25 to 30,64
+France,Provinces,Female,Married,30 to 40,74
+France,Provinces,Female,Married,40 to 50,95
+France,Provinces,Female,Married,50 to 60,136
+France,Provinces,Female,Married,60 to 70,142
+France,Provinces,Female,Married,70 to 80,191
+France,Provinces,Female,Married,Above 80,108
+France,Provinces,Female,Widowers,15 to 20,375
+France,Provinces,Female,Widowers,20 to 25,76
+France,Provinces,Female,Widowers,25 to 30,156
+France,Provinces,Female,Widowers,30 to 40,174
+France,Provinces,Female,Widowers,40 to 50,149
+France,Provinces,Female,Widowers,50 to 60,174
+France,Provinces,Female,Widowers,60 to 70,221
+France,Provinces,Female,Widowers,70 to 80,233
+France,Provinces,Female,Widowers,Above 80,221
+France,Provinces,Female,Widowers,15 to 20,375
+France,Provinces,Female,Widowers,20 to 25,76
+France,Provinces,Female,Widowers,25 to 30,156
+France,Provinces,Female,Widowers,30 to 40,174
+France,Provinces,Female,Widowers,40 to 50,149
+France,Provinces,Female,Widowers,50 to 60,174
+France,Provinces,Female,Widowers,60 to 70,221
+France,Provinces,Female,Widowers,70 to 80,233
+France,Provinces,Female,Widowers,Above 80,221
+France,Seine,Male,Unmarried,15 to 20,280
+France,Seine,Male,Unmarried,20 to 25,487
+France,Seine,Male,Unmarried,25 to 30,599
+France,Seine,Male,Unmarried,30 to 40,869
+France,Seine,Male,Unmarried,40 to 50,985
+France,Seine,Male,Unmarried,50 to 60,1367
+France,Seine,Male,Unmarried,60 to 70,1500
+France,Seine,Male,Unmarried,70 to 80,1783
+France,Seine,Male,Unmarried,Above 80,1923
+France,Seine,Male,Unmarried,15 to 20,280
+France,Seine,Male,Unmarried,20 to 25,487
+France,Seine,Male,Unmarried,25 to 30,599
+France,Seine,Male,Unmarried,30 to 40,869
+France,Seine,Male,Unmarried,40 to 50,985
+France,Seine,Male,Unmarried,50 to 60,1367
+France,Seine,Male,Unmarried,60 to 70,1500
+France,Seine,Male,Unmarried,70 to 80,1783
+France,Seine,Male,Unmarried,Above 80,1923
+France,Seine,Male,Married,15 to 20, 
+France,Seine,Male,Married,20 to 25,487
+France,Seine,Male,Married,25 to 30,599
+France,Seine,Male,Married,30 to 40,869
+France,Seine,Male,Married,40 to 50,985
+France,Seine,Male,Married,50 to 60,1367
+France,Seine,Male,Married,60 to 70,1500
+France,Seine,Male,Married,70 to 80,1783
+France,Seine,Male,Married,Above 80,1923
+France,Seine,Male,Married,15 to 20,2000
+France,Seine,Male,Married,20 to 25,128
+France,Seine,Male,Married,25 to 30,298
+France,Seine,Male,Married,30 to 40,436
+France,Seine,Male,Married,40 to 50,808
+France,Seine,Male,Married,50 to 60,1152
+France,Seine,Male,Married,60 to 70,1559
+France,Seine,Male,Married,70 to 80,1741
+France,Seine,Male,Married,Above 80,1111
+France,Seine,Male,Widowers,15 to 20,NA
+France,Seine,Male,Widowers,20 to 25,NA
+France,Seine,Male,Widowers,25 to 30,714
+France,Seine,Male,Widowers,30 to 40,912
+France,Seine,Male,Widowers,40 to 50,1459
+France,Seine,Male,Widowers,50 to 60,2321
+France,Seine,Male,Widowers,60 to 70,2902
+France,Seine,Male,Widowers,70 to 80,2082
+France,Seine,Male,Widowers,Above 80,2089
+France,Seine,Male,Widowers,15 to 20,NA
+France,Seine,Male,Widowers,20 to 25,NA
+France,Seine,Male,Widowers,25 to 30,714
+France,Seine,Male,Widowers,30 to 40,912
+France,Seine,Male,Widowers,40 to 50,1459
+France,Seine,Male,Widowers,50 to 60,2321
+France,Seine,Male,Widowers,60 to 70,2902
+France,Seine,Male,Widowers,70 to 80,2082
+France,Seine,Male,Widowers,Above 80,2089
+France,Seine,Female,Unmarried,15 to 20,280
+France,Seine,Female,Unmarried,20 to 25,487
+France,Seine,Female,Unmarried,25 to 30,599
+France,Seine,Female,Unmarried,30 to 40,869
+France,Seine,Female,Unmarried,40 to 50,985
+France,Seine,Female,Unmarried,50 to 60,1367
+France,Seine,Female,Unmarried,60 to 70,1500
+France,Seine,Female,Unmarried,70 to 80,1783
+France,Seine,Female,Unmarried,Above 80,1923
+France,Seine,Female,Unmarried,15 to 20,280
+France,Seine,Female,Unmarried,20 to 25,487
+France,Seine,Female,Unmarried,25 to 30,599
+France,Seine,Female,Unmarried,30 to 40,869
+France,Seine,Female,Unmarried,40 to 50,985
+France,Seine,Female,Unmarried,50 to 60,1367
+France,Seine,Female,Unmarried,60 to 70,1500
+France,Seine,Female,Unmarried,70 to 80,1783
+France,Seine,Female,Unmarried,Above 80,1923
+France,Seine,Female,Married,15 to 20, 
+France,Seine,Female,Married,20 to 25,487
+France,Seine,Female,Married,25 to 30,599
+France,Seine,Female,Married,30 to 40,869
+France,Seine,Female,Married,40 to 50,985
+France,Seine,Female,Married,50 to 60,1367
+France,Seine,Female,Married,60 to 70,1500
+France,Seine,Female,Married,70 to 80,1783
+France,Seine,Female,Married,Above 80,1923
+France,Seine,Female,Married,15 to 20,2000
+France,Seine,Female,Married,20 to 25,128
+France,Seine,Female,Married,25 to 30,298
+France,Seine,Female,Married,30 to 40,436
+France,Seine,Female,Married,40 to 50,808
+France,Seine,Female,Married,50 to 60,1152
+France,Seine,Female,Married,60 to 70,1559
+France,Seine,Female,Married,70 to 80,1741
+France,Seine,Female,Married,Above 80,1111
+France,Seine,Female,Widowers,15 to 20,NA
+France,Seine,Female,Widowers,20 to 25,NA
+France,Seine,Female,Widowers,25 to 30,714
+France,Seine,Female,Widowers,30 to 40,912
+France,Seine,Female,Widowers,40 to 50,1459
+France,Seine,Female,Widowers,50 to 60,2321
+France,Seine,Female,Widowers,60 to 70,2902
+France,Seine,Female,Widowers,70 to 80,2082
+France,Seine,Female,Widowers,Above 80,2089
+France,Seine,Female,Widowers,15 to 20,NA
+France,Seine,Female,Widowers,20 to 25,NA
+France,Seine,Female,Widowers,25 to 30,714
+France,Seine,Female,Widowers,30 to 40,912
+France,Seine,Female,Widowers,40 to 50,1459
+France,Seine,Female,Widowers,50 to 60,2321
+France,Seine,Female,Widowers,60 to 70,2902
+France,Seine,Female,Widowers,70 to 80,2082
+France,Seine,Female,Widowers,Above 80,2089

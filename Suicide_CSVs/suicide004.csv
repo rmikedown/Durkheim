@@ -1,0 +1,21 @@
+Country,Year,Sex,Prop.of.Insane
+Silesia,1858,Male,49
+Saxony,1861,Male,48
+Wurttemberg,1853,Male,45
+Denmark,1847,Male,45
+Norway,1855,Male,44.5
+New York,1855,Male,44
+Massachusetts,1854,Male,46
+Maryland,1850,Male,46
+France,1890,Male,47
+France,1891,Male,48
+Silesia,1858,Female,51
+Saxony,1861,Female,52
+Wurttemberg,1853,Female,55
+Denmark,1847,Female,55
+Norway,1855,Female,55.5
+New York,1855,Female,56
+Massachusetts,1854,Female,54
+Maryland,1850,Female,54
+France,1890,Female,53
+France,1891,Female,52
