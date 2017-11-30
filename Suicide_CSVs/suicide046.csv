@@ -1,9 +1,0 @@
-Country,GroupID,Departments.Included,SRP1M,DS.P1KM
-France,1,5,Below 50,2.6
-France,2,18,From 51 to 75,2.9
-France,3,15,76 to 100,5
-France,4,19,101 to 150,5.4
-France,5,10,151 to 200,7.5
-France,6,9,201 to 250,8.2
-France,7,4,251 to 300,10
-France,8,5,Above 300,12.4
