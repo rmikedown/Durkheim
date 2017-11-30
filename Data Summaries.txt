@@ -1,0 +1,4 @@
+Introduction
+
+suicide001.csv - Raw totals of suicides per year by country
+suicide002.csv - Stability of suicides each year by European countries
