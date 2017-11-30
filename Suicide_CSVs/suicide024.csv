@@ -1,9 +1,0 @@
-Country,Period,Province,GroupID,Categorization,SP1M
-Bavaria,1867-75,Rhenish Palatinate,Catholic Minority,< 50%,167
-Bavaria,1867-75,Central Franconia,Catholic Minority,< 50%,207
-Bavaria,1867-75,Upper Franconia,Catholic Minority,< 50%,204
-Bavaria,1867-75,Lower Franconia,Catholic Majority,50-90%,157
-Bavaria,1867-75,Swabia,Catholic Majority,50-90%,118
-Bavaria,1867-75,Upper Palatinate,Catholic,> 90%,64
-Bavaria,1867-75,Upper Bavaria,Catholic,> 90%,114
-Bavaria,1867-75,Lower Bavaria,Catholic,> 90%,19
