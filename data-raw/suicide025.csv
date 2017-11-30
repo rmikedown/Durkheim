@@ -1,0 +1,15 @@
+Country,Period,Province,GroupID,Categorization,SP1M
+Prussia,1883-90,Saxony,Protestant,> 90 %,309.4
+Prussia,1883-90,Schleswig,Protestant,> 90 %,312.9
+Prussia,1883-90,Pomerania,Protestant,> 90 %,171.5
+Prussia,1883-90,Hanover,Majority Protestant,68 to 89%,212.3
+Prussia,1883-90,Hesse,Majority Protestant,68 to 89%,200.3
+Prussia,1883-90,Brandenburg and Berlin,Majority Protestant,68 to 89%,296.3
+Prussia,1883-90,E. Prussia,Majority Protestant,68 to 89%,171.3
+Prussia,1883-90,W. Prussia,Moderate Protestant,40 to 50%,123.9
+Prussia,1883-90,Silesia,Moderate Protestant,40 to 50%,260.2
+Prussia,1883-90,Westphalia,Moderate Protestant,40 to 50%,107.5
+Prussia,1883-90,Posen,Protestant Minority,28 to 32%,96.4
+Prussia,1883-90,Rhineland,Protestant Minority,28 to 32%,100.3
+Prussia,1883-90,Hohenzollern,Protestant Minority,28 to 32%,90.1
+,, ,,,

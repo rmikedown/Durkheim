@@ -1,0 +1,37 @@
+Country,Source,Year,Religion,IP1K
+Silesia,Koch,1858,Protestant,0.74
+Mecklenburg,Koch,1862,Protestant,1.36
+Duchy of Baden,Koch,1863,Protestant,1.34
+Duchy of Baden,Koch,1873,Protestant,0.95
+Bavaria,Koch,1871,Protestant,0.92
+Prussia,Koch,1871,Protestant,0.8
+Wurttemberg,Koch,1832,Protestant,0.65
+Wurttemberg,Koch,1853,Protestant,1.06
+Wurttemburg,Koch,1875,Protestant,2.18
+Grand Duchy of Hesse,Koch,1864,Protestant,0.63
+Oldenburg,Koch,1871,Protestant,2.12
+Canton of Bern,Koch,1871,Protestant,2.64
+Silesia,Koch,1858,Catholic,0.79
+Mecklenburg,Koch,1862,Catholic,2
+Duchy of Baden,Koch,1863,Catholic,1.41
+Duchy of Baden,Koch,1873,Catholic,1.19
+Bavaria,Koch,1871,Catholic,0.96
+Prussia,Koch,1871,Catholic,0.87
+Wurttemberg,Koch,1832,Catholic,0.68
+Wurttemberg,Koch,1853,Catholic,1.06
+Wurttemburg,Koch,1875,Catholic,1.86
+Grand Duchy of Hesse,Koch,1864,Catholic,0.59
+Oldenburg,Koch,1871,Catholic,1.76
+Canton of Bern,Koch,1871,Catholic,1.82
+Silesia,Koch,1858,Jewish,1.55
+Mecklenburg,Koch,1862,Jewish,5.33
+Duchy of Baden,Koch,1863,Jewish,2.24
+Duchy of Baden,Koch,1873,Jewish,1.44
+Bavaria,Koch,1871,Jewish,2.86
+Prussia,Koch,1871,Jewish,1.42
+Wurttemberg,Koch,1832,Jewish,1.77
+Wurttemberg,Koch,1853,Jewish,1.49
+Wurttemburg,Koch,1875,Jewish,3.96
+Grand Duchy of Hesse,Koch,1864,Jewish,1.42
+Oldenburg,Koch,1871,Jewish,3.37
+Canton of Bern,Koch,1871,Jewish,NA

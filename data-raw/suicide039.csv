@@ -1,0 +1,18 @@
+Country,Period,Group,Age Category,SP1M,Comparison,Coefficient
+Austria,1876-90,Soldiers,Military Age,1253,Civilians,10.2704918033
+United States,1870-84,Soldiers,Military Age,680,Civilians,8.5
+Italy,1876-90,Soldiers,Military Age,407,Civilians,5.2857142857
+England,1876-90,Soldiers,Military Age,209,Civilians,2.6455696203
+Wurttemberg,1846-58,Soldiers,Military Age,320,Civilians,1.8823529412
+Saxony,1847-58,Soldiers,Military Age,640,Civilians,1.7344173442
+Prussia,1876-90,Soldiers,Military Age,607,Civilians,1.5406091371
+France,1876-90,Soldiers,Military Age,333,Civilians,1.2566037736
+Austria,1876-90,Civilians,Military Age,122,Soldiers,0.0973663208
+United States,1870-84,Civilians,Military Age,80,Soldiers,0.1176470588
+Italy,1876-90,Civilians,Military Age,77,Soldiers,0.1891891892
+England,1876-90,Civilians,Military Age,79,Soldiers,0.3779904306
+Wurttemberg,1846-58,Civilians,Military Age,170,Soldiers,0.53125
+Saxony,1847-58,Civilians,Military Age,369,Soldiers,0.5765625
+Prussia,1876-90,Civilians,Military Age,394,Soldiers,0.6490939044
+France,1876-90,Civilians,Military Age,265,Soldiers,0.7957957958
+,,,, ,,

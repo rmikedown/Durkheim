@@ -1,0 +1,69 @@
+Country,Period,Motive,Sex,PSS100
+France,1856-60,Poverty and losses,Male,13.3
+France,1856-60,Family troubles,Male,11.68
+France,1856-60,"Love, jealousy, debauchery, misconduct",Male,15.48
+France,1856-60,Various types of distress,Male,23.7
+France,1856-60,Mental sickness,Male,25.67
+France,1856-60,"Remorse, fear of criminal sentence",Male,0.84
+France,1856-60,Other causes and unknown causes,Male,9.33
+France,1856-60,Poverty and losses,Female,5.38
+France,1856-60,Family troubles,Female,12.79
+France,1856-60,"Love, jealousy, debauchery, misconduct",Female,13.16
+France,1856-60,Various types of distress,Female,17.16
+France,1856-60,Mental sickness,Female,45.75
+France,1856-60,"Remorse, fear of criminal sentence",Female,0.19
+France,1856-60,Other causes and unknown causes,Female,5.51
+France,1874-78,Poverty and losses,Male,11.79
+France,1874-78,Family troubles,Male,12.53
+France,1874-78,"Love, jealousy, debauchery, misconduct",Male,16.98
+France,1874-78,Various types of distress,Male,23.43
+France,1874-78,Mental sickness,Male,27.09
+France,1874-78,"Remorse, fear of criminal sentence",Male,NA
+France,1874-78,Other causes and unknown causes,Male,8.18
+France,1874-78,Poverty and losses,Female,5.77
+France,1874-78,Family troubles,Female,16
+France,1874-78,"Love, jealousy, debauchery, misconduct",Female,12.2
+France,1874-78,Various types of distress,Female,20.22
+France,1874-78,Mental sickness,Female,41.81
+France,1874-78,"Remorse, fear of criminal sentence",Female,NA
+France,1874-78,Other causes and unknown causes,Female,4
+Saxony,1854-78,Physical pain,Male,5.64
+Saxony,1854-78,Family troubles,Male,2.39
+Saxony,1854-78,Losses and poverty,Male,9.52
+Saxony,1854-78,"Debauchery, gambling",Male,11.15
+Saxony,1854-78,"Remorse, fear of prosecution, etc.",Male,10.41
+Saxony,1854-78,Unhappy love,Male,1.79
+Saxony,1854-78,"Mental troubles, religious mania",Male,27.94
+Saxony,1854-78,Anger,Male,2
+Saxony,1854-78,Disgust with life,Male,9.58
+Saxony,1854-78,Unknown causes,Male,19.58
+Saxony,1854-78,Physical pain,Female,7.43
+Saxony,1854-78,Family troubles,Female,3.18
+Saxony,1854-78,Losses and poverty,Female,2.8
+Saxony,1854-78,"Debauchery, gambling",Female,1.59
+Saxony,1854-78,"Remorse, fear of prosecution, etc.",Female,10.44
+Saxony,1854-78,Unhappy love,Female,3.74
+Saxony,1854-78,"Mental troubles, religious mania",Female,50.64
+Saxony,1854-78,Anger,Female,3.04
+Saxony,1854-78,Disgust with life,Female,5.37
+Saxony,1854-78,Unknown causes,Female,11.77
+Saxony,1880,Physical pain,Male,5.86
+Saxony,1880,Family troubles,Male,3.3
+Saxony,1880,Losses and poverty,Male,11.28
+Saxony,1880,"Debauchery, gambling",Male,10.74
+Saxony,1880,"Remorse, fear of prosecution, etc.",Male,8.51
+Saxony,1880,Unhappy love,Male,1.5
+Saxony,1880,"Mental troubles, religious mania",Male,30.27
+Saxony,1880,Anger,Male,3.29
+Saxony,1880,Disgust with life,Male,6.67
+Saxony,1880,Unknown causes,Male,18.58
+Saxony,1880,Physical pain,Female,7.98
+Saxony,1880,Family troubles,Female,1.72
+Saxony,1880,Losses and poverty,Female,4.42
+Saxony,1880,"Debauchery, gambling",Female,0.44
+Saxony,1880,"Remorse, fear of prosecution, etc.",Female,6.21
+Saxony,1880,Unhappy love,Female,6.2
+Saxony,1880,"Mental troubles, religious mania",Female,54.43
+Saxony,1880,Anger,Female,3.09
+Saxony,1880,Disgust with life,Female,5.76
+Saxony,1880,Unknown causes,Female,9.75

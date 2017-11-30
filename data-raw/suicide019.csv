@@ -1,0 +1,50 @@
+Country,Period,City,Month,AvgTempF,SP1K
+France,1866-70,NA,January,36.12,68
+France,1866-70,NA,February,39.2,80
+France,1866-70,NA,March,43.52,86
+France,1866-70,NA,April,50.18,102
+France,1866-70,NA,May,57.56,105
+France,1866-70,NA,June,62.96,107
+France,1866-70,NA,July,66.12,100
+France,1866-70,NA,August,65.3,82
+France,1866-70,NA,September,60.26,74
+France,1866-70,NA,October,52.34,70
+France,1866-70,NA,November,43.7,66
+France,1866-70,NA,December,38.66,61
+Italy,1883-88,Rome,January,44.24,69
+Italy,1883-88,Rome,February,46.76,80
+Italy,1883-88,Rome,March,50.72,81
+Italy,1883-88,Rome,April,56.3,98
+Italy,1883-88,Rome,May,64.4,103
+Italy,1883-88,Rome,June,71.42,105
+Italy,1883-88,Rome,July,76.82,102
+Italy,1883-88,Rome,August,75.74,93
+Italy,1883-88,Rome,September,70.16,75
+Italy,1883-88,Rome,October,61.34,65
+Italy,1883-88,Rome,November,51.62,63
+Italy,1883-88,Rome,December,46.22,61
+Italy,1883-88,Naples,January,47.12,69
+Italy,1883-88,Naples,February,48.74,80
+Italy,1883-88,Naples,March,51.26,81
+Italy,1883-88,Naples,April,57.2,98
+Italy,1883-88,Naples,May,63.61,103
+Italy,1883-88,Naples,June,70.7,105
+Italy,1883-88,Naples,July,75.74,102
+Italy,1883-88,Naples,August,75.56,93
+Italy,1883-88,Naples,September,71.7,75
+Italy,1883-88,Naples,October,62.68,65
+Italy,1883-88,Naples,November,53.96,63
+Italy,1883-88,Naples,December,49.1,61
+Prussia,"1876-78, 80-82, 85-89",NA,January,32.5,61
+Prussia,"1876-78, 80-82, 85-89",NA,February,33.31,67
+Prussia,"1876-78, 80-82, 85-89",NA,March,37.93,78
+Prussia,"1876-78, 80-82, 85-89",NA,April,44.22,99
+Prussia,"1876-78, 80-82, 85-89",NA,May,50.84,104
+Prussia,"1876-78, 80-82, 85-89",NA,June,57.29,105
+Prussia,"1876-78, 80-82, 85-89",NA,July,59.39,99
+Prussia,"1876-78, 80-82, 85-89",NA,August,58.48,90
+Prussia,"1876-78, 80-82, 85-89",NA,September,52.88,83
+Prussia,"1876-78, 80-82, 85-89",NA,October,46.02,78
+Prussia,"1876-78, 80-82, 85-89",NA,November,37.27,70
+Prussia,"1876-78, 80-82, 85-89",NA,December,33.08,61
+,,, , ,

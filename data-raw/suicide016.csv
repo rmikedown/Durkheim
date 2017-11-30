@@ -1,0 +1,11 @@
+Country,Region,Period Start,Period End,SP1M,RTN
+Italy,North,1866,1867,33.8,100
+Italy,Center,1866,1867,25.6,75
+Italy,South,1866,1867,8.3,24
+Italy,North,1864,1876,43.6,100
+Italy,Center,1864,1876,40.8,93
+Italy,South,1864,1876,16.5,37
+Italy,North,1884,1886,63,100
+Italy,Center,1884,1886,88,139
+Italy,South,1884,1886,21,33
+,, ,, ,

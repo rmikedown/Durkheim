@@ -1,0 +1,56 @@
+Country,Sex,Age Category,Marital Status,SP1M
+France,Men,15 to 20,Unmarried,113
+France,Men,20 to 25,Unmarried,237
+France,Men,25 to 30,Unmarried,394
+France,Men,30 to 40,Unmarried,627
+France,Men,40 to 50,Unmarried,975
+France,Men,50 to 60,Unmarried,1434
+France,Men,60 to 70,Unmarried,1768
+France,Men,70 to 80,Unmarried,1983
+France,Men,Above 80,Unmarried,1571
+France,Men,15 to 20,Married,500
+France,Men,20 to 25,Married,97
+France,Men,25 to 30,Married,122
+France,Men,30 to 40,Married,226
+France,Men,40 to 50,Married,340
+France,Men,50 to 60,Married,520
+France,Men,60 to 70,Married,635
+France,Men,70 to 80,Married,704
+France,Men,Above 80,Married,770
+France,Men,15 to 20,Widowed,NA
+France,Men,20 to 25,Widowed,142
+France,Men,25 to 30,Widowed,412
+France,Men,30 to 40,Widowed,560
+France,Men,40 to 50,Widowed,721
+France,Men,50 to 60,Widowed,979
+France,Men,60 to 70,Widowed,1166
+France,Men,70 to 80,Widowed,1288
+France,Men,Above 80,Widowed,1154
+France,Women,15 to 20,Unmarried,79.4
+France,Women,20 to 25,Unmarried,106
+France,Women,25 to 30,Unmarried,151
+France,Women,30 to 40,Unmarried,126
+France,Women,40 to 50,Unmarried,171
+France,Women,50 to 60,Unmarried,204
+France,Women,60 to 70,Unmarried,189
+France,Women,70 to 80,Unmarried,206
+France,Women,Above 80,Unmarried,176
+France,Women,15 to 20,Married,33
+France,Women,20 to 25,Married,53
+France,Women,25 to 30,Married,68
+France,Women,30 to 40,Married,82
+France,Women,40 to 50,Married,106
+France,Women,50 to 60,Married,151
+France,Women,60 to 70,Married,158
+France,Women,70 to 80,Married,209
+France,Women,Above 80,Married,110
+France,Women,15 to 20,Widowed,333
+France,Women,20 to 25,Widowed,66
+France,Women,25 to 30,Widowed,178
+France,Women,30 to 40,Widowed,205
+France,Women,40 to 50,Widowed,168
+France,Women,50 to 60,Widowed,199
+France,Women,60 to 70,Widowed,257
+France,Women,70 to 80,Widowed,248
+France,Women,Above 80,Widowed,240
+,,,, 

@@ -1,0 +1,209 @@
+Variables in Durkheim's classic "Suicide"
+
+Total.Suicides: The raw data collected on suicides
+
+Country: Categorical variable of the Country where the data was collected
+
+Year: Numerical variable of the year of the data
+
+Period: "Dummy" categorical variable used to provide context for the year variable.
+
+Period.Criteria: Categorical variable with full context of the period
+
+SP100k: Suicides per 100 thousand inhabitants
+
+SSRA: Suicide rate relative to average
+
+PAS: Average suicides in the period
+
+Mortality.Rate: Mortalities per 1000 inhabitants
+
+PAM: Average mortalities per 1000 inhabitants in the period
+
+MRRA: Mortality rate relative to the average
+
+SP1M: Suicides per 1 million inhabitants
+
+Period.Start: The beginning year that defines the period
+
+Period.End: The ending year the defines the period
+
+Sex: Categorical variable indicating male, female or male and female data combined
+
+Prop.of.Insane: Numeric variable of the number of individuals in that category for insanity out of 100
+
+Prop.of.Suicides: Numeric variable of the number of individuals in that category for suicides out of 100
+
+Source: The individual(s) who collected the data
+
+IP1K: Insane per one thousand inhabitants
+
+IP100K: Insane per one hundred thousand inhabitants
+
+Religion: Categorical variable of religious affiliation
+
+IRR: Insanity rate rank. 1 means the highest rate.
+
+SRR: Suicide rate rank: 1 means the highest rate.
+
+GroupID: Categorical variable of a select group of countries or sections of a country
+
+Countries.Included: Numerical variable for the number of countries included in the CountryID variable
+
+MAP100K: Categorical variable of the number of those clinically described as mentally alienated per one hundred thousand in the population
+
+GAP100K: Average number of suicides for the countries fitting the highlighted Country.Category per 100K
+
+RIIP100K: Rate of those classified as insane plus the number of those classified as idiots per 100K of the population
+
+Departments.Included: Total number of departments or sections included in the categorical variable GroupID
+
+AIP100A: Total number of alcoholic insane per one hundred admissions into the psych ward
+
+Period.Collected.S: Categorical variable for the years suicide data was collected
+
+Period.Collected.AI: Categorical variable for the years alcoholic insanity data was collected
+
+LCPC: Categorical variable of liters of alcohol consumed per capita
+
+Province: Categorical variable of provinces
+
+Categorization: Explains the GroupID variable
+
+Prop.German: The number of German inhabitants per 100 inhabitants
+
+MHEP1K: Numerical variable of the number of inhabitants per one thousand eligible who were exempted from military enrollment for being too short
+
+AgeID: "Dummy" categorical variable for a range of ages
+
+Age.Category: Categorical variable to provide context for the AgeID variable
+
+Continent: Categorical variable for continent
+
+Latitude: Categorical variable for geographical location
+
+RTN: Ratio to the North is a numerical variable expressing the ratio of the region in terms of north
+
+Region: Generic variable for expressing geographical locations. Includes north, south, east, west, and others.
+
+Season: Categorical variable including winter, spring, summer and fall, or autumn
+
+SP1KT: Numerical variable for the proportion of suicides out of 1000 that took place in that given year or period
+
+AvgTempF: Average temperature in degrees fahrenheit
+
+Month: Categorical variable for month of the year
+
+City: Categorical variable for city
+
+Minutes.of.Daylight: Numerical variable for the average number of minutes of daylight each day in that time period
+
+CIDOPM: Change in daylight over previous month expressed in a percentage
+
+CISOPM: Change in suicide over previous month expressed in a percentage
+
+City/Country: Binary categorical variable for city or country
+
+Location: Categorical variable for a specific location
+
+PC100W: Proportional comparison of suicides made for every 100 winter
+
+PSS100: Proportion of suicides by sex per 100
+
+Motive: Categorical variable for the motive behind the suicide
+
+Occupation: Categorical variable for occupation
+
+PSM100: Proportion of suicides by motive per 100
+
+PMHWL: Percentage of marriages where both the husband and wife are literate
+
+Period.Collected.HWL: Categorical variable for the years data on husband and wife literacy was collected
+
+PRP: Proportion of the religious population
+
+PESS: Proportion of enrollment in secondary schools
+
+AU.P1KEE: Attend university per 1000 enrolled in education
+
+AVGPP: Average proportion of protestants per 100 religious from countries in GroupID variable
+
+AVGPPSE: Average proportion of protestants per 100 religious in secondary enrollment from countries in GroupID variable
+
+Difference: Calculated differences of AVGPP and AVGPPSE variables
+
+Marital Status: Categorical variable of marital statuses, including married, unmarried, and widowed
+
+Comparison: A categorical variable of a group selected for comparison
+
+Coefficient: The comparison group rate (ie; suicides) divided by the relevant rate (ie; suicides) from the observation group. Durkheim calls this the coefficient of preservation in the example of suicides
+
+Age: Numerical variable for age
+
+Have.Children: Binary categorical variable. "Yes" for has children, and "no" for doesn't
+
+SRP1M: Suicide range per one million inhabitants in regions/departments from GroupID
+
+AVGFHS: Average family household size
+
+PHBAVGFHS: Percentage of households below the average family household size in regions/departments from GroupID
+
+PHAAVGFHS: Percentage of households above the average family household size in regions/departments from GroupID
+
+Event: Categorical variable for a particular political, social, or economic event
+
+Crisis.Year: Binary categorical variable for a particular event. "Yes" if it is the year of the event
+
+Crisis.Month: Binary categorical variable for a particular event. "Yes" if it is the month of the event
+
+CIS: Crisis intensity score, as interpreted from Durkheim's explanation of the event
+
+Group: Categorical variable for a particular group of individuals
+
+Service.Time: Categorical variable for the amount of time served by military personnel
+
+Base: Categorical variable for the location from which military personnel operates
+
+AvgAge: Numerical value for the average age in category
+
+Military: Binary categorical variable for having been once enrolled or current enrollment in the military
+
+SRP100K: Categorical variable for the range of suicides in the regions in the GroupID variable
+
+ANIIMP100K: Average number of persons of independent means per one hundred thousand inhabitants
+
+Influence.of.Business: Binary categorical variable for the extent to which division of labor significantly influenced occupation
+
+Divorce: Categorical variable for the frequency of divorce in a given region
+
+ADP100M: Annual divorces per 100 marriages
+
+Language: Categorical variable for languages used in region
+
+DS.P1KM: Divorces and separations per one thousand marriages
+
+SRP1M: Categorical variable for the range of suicides of countries in the GroupID
+
+Concept.of.Divorce: Binary categorical variable for whether or not the country recognizes divorce
+
+DP100KMP: Divorces per one hundred thousand married persons
+
+HSPWS: Numerical variable of number of husband suicides for every one wife suicide
+
+Suicide.Type: Categorical variable for the method used to commit suicide
+
+PS1KS: Proportion of suicides made of a given type for every 1000 suicides made total
+
+Murder.Type: Binary categorical variable for planned and unplanned murders
+
+MP100K: Murders per one hundred thousand inhabitants of a given category
+
+Homicide.Type: Categorical variable that includes all types of homicides
+
+Avg.Homicides: Numerical variable averaging the number of homicides in a given month
+
+HP1M: Homicides per one million
+
+MP1M: Murders per one million
+
+
